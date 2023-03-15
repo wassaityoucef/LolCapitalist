@@ -1,7 +1,7 @@
 module.exports = {
-    "name": "myworld",
-    "logo": "icones/logomonde.jpg",
-    "money": 0,
+    "name": "MyHallownest",
+    "logo": "/icones/logomonde.jpg",
+    "money": 53,
     "score": 0,
     "totalangels": 0,
     "activeangels": 0,
