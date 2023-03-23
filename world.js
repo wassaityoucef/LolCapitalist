@@ -10,8 +10,8 @@ module.exports = {
     "products": [
     {
     "id": 1,
-    "name": "premier produit",
-    "logo": "icones/premierproduit.jpg",
+    "name": "Husk Guard",
+    "logo": "/icones/produit1.webp",
     "cout": 4,
     "croissance": 1.07,
     "revenu": 1,
@@ -38,12 +38,20 @@ module.exports = {
  "typeratio": "vitesse",
  "unlocked": false
  },
-] //…
+]
  },
  {
  "id": 2,
- "name": "Deuxième produit »",
- "logo": "icones/deuxiemeproduit.jpg",
+ "name": "Watcher Knight",
+ "logo": "/icones/produit2.png",
+ "cout": 60,
+ "croissance": 1.15,
+ "revenu": 60,
+ "vitesse": 3000,
+ "quantite": 1,
+ "timeleft": 0,
+ "managerUnlocked": false,
+
  }// …
  ],
  "allunlocks": [
